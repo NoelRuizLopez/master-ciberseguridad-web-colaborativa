@@ -17,6 +17,8 @@ public class HashUtils {
             while(hashtext.length() < 32){
                 hashtext = "0" + hashtext;
             }
+            s = hashtext;
+
         } catch (Exception e) {}
         return s;
     }

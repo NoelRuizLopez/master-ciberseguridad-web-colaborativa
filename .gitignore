@@ -47,3 +47,8 @@ local.properties
 # IDEA project files
 *.ipr
 *.iws
+
+# carpeta de users, ya que guarda información que no debe ir a un repo
+users/
+
+
